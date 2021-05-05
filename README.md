@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ashaginaw
+## A little about me
+
+- 👋 Hi, I’m Amanda Shaginaw
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++ game coding
 - 💞️ I’m looking to collaborate on open projects
