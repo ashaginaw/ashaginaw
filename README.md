@@ -1,4 +1,4 @@
-## A little about me
+## About Me
 
 - 👋 Hi, I’m Amanda Shaginaw
 - 👀 I’m interested in game development
