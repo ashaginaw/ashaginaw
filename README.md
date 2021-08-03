@@ -1,9 +1,10 @@
 ## About Me
 
 - 👋 Hi, I’m Amanda Shaginaw
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++ game coding
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning how to build a personal database
 - 💞️ I’m looking to collaborate on open projects
+- 📓 Current Classes: Computer Organization and Assembly Language
 - 📫 How to reach me Email: alshaginaw@gmail.com
 - ⚡ Fun Fact: Computer Science is not my first field. I was originally in Epidemiology!
 - 🎮 Current Game I'm Playing: Animal Crossing
