@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning how to build a personal database
 - 💞️ I’m looking to collaborate on open projects
-- 📓 Current Classes: Computer Organization and Assembly Language
+- 📓 Current Classes: Computer Organization and Assembly Language, Japanese Culture
 - 📫 How to reach me Email: alshaginaw@gmail.com
 - ⚡ Fun Fact: Computer Science is not my first field. I was originally in Epidemiology!
 - 🎮 Current Game I'm Playing: NBA 2K21
