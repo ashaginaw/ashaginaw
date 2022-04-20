@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on open projects
 - 📓 Current Classes: Artificial Intelligence, Machine Learning, and Operating Systems
 - 📫 How to reach me Email: alshaginaw@gmail.com
-- ⚡ Fun Fact: Computer Science is not my first field. I was originally in Epidemiology!
+- ⚡ Fun Fact: I am internationally ranked in speedruning Pokemon Trading Card Game! I am currently 61st.
 - 🎮 Current Game I'm Playing: Minecraft
 <!---
 ashaginaw/ashaginaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
