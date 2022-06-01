@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to build a personal database
 - 🎉 I'm going to be a part of the IBM Accelerate Program this summer!
 - 💞️ I’m looking to collaborate on open projects
-- 📓 Current Classes: Artificial Intelligence, Machine Learning, and Operating Systems
+- 📓 Current Classes: None! Happy Summer 😎
 - 📫 How to reach me Email: alshaginaw@gmail.com
 - ⚡ Fun Fact: I am internationally ranked in speedruning Pokemon Trading Card Game! I am currently 61st.
 - 🎮 Current Game I'm Playing: Minecraft
