@@ -1,8 +1,8 @@
 ## About Me
 
 - 👋 Hi, I’m Amanda Shaginaw
-- 👀 I’m interested in Penetration Testing or Ethical Hacking
-- 🌱 I’m currently learning OpenGL
+- 👀 I’m interested in Computer Graphics or Game Development
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on open projects
 - 📓 Current Classes: Introduction to Game Development (Online through Harvard's free classes!)
 - 📫 How to reach me Email: alshaginaw@gmail.com
