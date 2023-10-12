@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Amanda Shaginaw
 - 👀 I’m interested in Computer Graphics or Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently getting reaady to start my Capstone Project
 - 💞️ I’m looking to collaborate on open projects
-- 📓 Current Classes: Introduction to Game Development (Online through Harvard's free classes!)
+- 📓 Current Classes: Linear Algebra and Introduction to Biostatistics
 - 📫 How to reach me Email: alshaginaw@gmail.com
 - ⚡ Fun Fact: I am internationally ranked in speedruning Pokemon Trading Card Game! I am currently 63rd.
 - 🎮 Current Game I'm Playing: Waiting for LoZ: Tears of the Kingdom
