@@ -1,8 +1,9 @@
 ## About Me
 
 - 👋 Hi, I’m Amanda Shaginaw
-- 👀 I’m interested in Computer Graphics or Game Development
-- 🌱 I’m currently getting reaady to start my Capstone Project
+- 👀 I’m interested in Software Engineering or Cybersecurity
+- 🙋‍♀️ I am currently looking for a job post-Graduation
+- - 🌱 I’m currently getting reaady to start my Capstone Project
 - 💞️ I’m looking to collaborate on open projects
 - 📓 Current Classes: Linear Algebra and Introduction to Biostatistics
 - 📫 How to reach me Email: alshaginaw@gmail.com
