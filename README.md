@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on open projects
 - 📓 Current Classes: Computer Science Capstone
 - 📫 How to reach me by Email: alshaginaw@gmail.com
-- ⚡ Fun Fact: I am internationally ranked in speedrunning Pokemon Trading Card Game! I am currently 63rd.
+- ⚡ Fun Fact: I am internationally ranked in speedrunning Pokemon Trading Card Game! I am currently 64th.
 - 🎮 Current Game I'm Playing: Madden 24
 <!---
 ashaginaw/ashaginaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
